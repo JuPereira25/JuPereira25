@@ -62,7 +62,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     title="Pandas"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
+    src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" 
  />
   <img 
     align="left" 
