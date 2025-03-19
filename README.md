@@ -26,7 +26,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -34,7 +34,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -43,7 +43,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
  />
@@ -52,7 +52,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     align="left" 
     alt="Postgresql" 
     title="Postgresql"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
  />
@@ -60,7 +60,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" 
  />
@@ -68,7 +68,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     align="left" 
     alt="Numpy" 
     title="Numpy"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
  />
@@ -76,7 +76,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     align="left" 
     alt="Matplotlib" 
     title="Matplotlib"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" 
  />
@@ -84,9 +84,17 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     align="left" 
     alt="Scikit-Learn" 
     title="Scikit-Learn"
-    width="30px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" 
+ />
+ <img 
+    align="left" 
+    alt="Trello" 
+    title="Trello"
+    width="45px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
  />
            
 
