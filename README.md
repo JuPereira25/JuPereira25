@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Juliana
+# 👩🏻‍💻 Juliana Pereira
 
 Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atualmente, estou graduando em Análise e Desenvolvimento de Sistemas na Fametro. Sou apaixonada por tecnologia e participo ativamente de comunidades de tecnologia local, contribuindo como voluntária na PyData Manaus e PyLadies Manaus. Nessas iniciativas, colaboro com a organização do evento, ajudando a promover a inclusão e o compartilhamento de conhecimento na área de tecnologia e ciência de dados.
 <p align="left">
