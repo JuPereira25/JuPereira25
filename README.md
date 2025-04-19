@@ -82,21 +82,21 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
 
 ### 📊 Estatísticas
 
-<div style="display: flex; flex-direction: row; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-around;">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="border-radius: 8px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JuPereira25&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="border-radius: 8px; border: 2px solid #6a0dad;" 
+    src="https://github-readme-stats.vercel.app/api?username=JuPereira25&show_icons=true&theme=highcontrast&include_all_commits=true&locale=pt-br" 
   />
   
   <img 
       align="left" 
       alt="GitHub Top Languages" 
       height="200" 
-      style="border-radius: 8px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuPereira25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      style="border-radius: 8px; border: 2px solid #6a0dad;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuPereira25&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
 
