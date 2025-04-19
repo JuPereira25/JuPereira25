@@ -86,7 +86,7 @@ Me chamo Juliana Pereira, tenho 26 anos e sou natural de Manaus - Amazonas. Atua
     alt="GitHub Top Languages" 
     height="200" 
     style="border-radius: 8px;" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuPereira25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuPereira25&layout=compact" 
   />
 </div>
 
