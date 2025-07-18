@@ -77,7 +77,6 @@ My name is Juliana Pereira, I am 26 years old, and I’m from Amazonas, Brazil. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
 />
-<br />
 <img 
     align="left" 
     alt="HTML" 
@@ -86,7 +85,6 @@ My name is Juliana Pereira, I am 26 years old, and I’m from Amazonas, Brazil. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 />
-<br />
 <img 
     align="left" 
     alt="Javascript" 
@@ -95,7 +93,6 @@ My name is Juliana Pereira, I am 26 years old, and I’m from Amazonas, Brazil. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 />
-<br />
 <img 
     align="left" 
     alt="CSS3" 
@@ -104,6 +101,6 @@ My name is Juliana Pereira, I am 26 years old, and I’m from Amazonas, Brazil. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 />
-<br />
+
 
 
