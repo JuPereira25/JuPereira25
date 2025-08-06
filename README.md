@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Juliana Pereira
 
-My name is Juliana Pereira, I am 26 years old, and I’m from Amazonas, Brazil. I am currently pursuing a degree in Systems Analysis and Development at Fametro. I am passionate about technology and actively participate in local tech communities, volunteering with PyData Manaus and PyLadies Manaus. In these initiatives, I help organize events, promoting inclusion and knowledge sharing in the fields of technology and data science.
+Designer, Desenvolvedora Front-end, Ilustradora por hobby e entusiasta em IA. Portfolio: julie-pereira.netlify.app
 
 ---
 
