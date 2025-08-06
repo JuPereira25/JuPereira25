@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Juliana Pereira
+# 👩🏻‍💻 Julie Pereira
 
 Designer, Desenvolvedora Front-end, Ilustradora por hobby e entusiasta em IA. Portfolio: julie-pereira.netlify.app
 
