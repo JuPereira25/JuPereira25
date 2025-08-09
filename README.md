@@ -1,13 +1,5 @@
 # 👩🏻‍💻 Julie Pereira
 
-Designer, Desenvolvedora Front-end, Ilustradora por hobby e entusiasta em IA. 
-
-
-
-
-Portfolio de Art: https://julie-pereira.netlify.app/
----
-
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
