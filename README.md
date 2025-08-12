@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Julie Pereira
-Designer gráfico, Desenvolvedora, entusiasta em machine learning. E nas horas vagas, ilustradora por hobby :) | https://julie-pereira.netlify.app/
+Graphic Designer, Developer, and Machine Learning enthusiast. In my free time, illustrator as a hobby :) | https://julie-pereira.netlify.app/
 
 ### 🤖 Linguagens e Tecnologias
 <img 
