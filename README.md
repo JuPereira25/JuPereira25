@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Julie Pereira
+# 👩🏻‍💻 Ju Pereira
 Graphic Designer, Front-end Developer and Machine Learning enthusiast. In my free time, illustrator as a hobby :) 
 
 ### 🤖 Linguagens e Tecnologias
