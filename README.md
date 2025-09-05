@@ -20,14 +20,6 @@ Graphic Designer, Front-end Developer and Machine Learning enthusiast. In my fre
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Postgresql" 
     title="Postgresql"
     width="60px" 
@@ -44,22 +36,6 @@ Graphic Designer, Front-end Developer and Machine Learning enthusiast. In my fre
 />
 <img 
     align="left" 
-    alt="Numpy" 
-    title="Numpy"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Matplotlib" 
-    title="Matplotlib"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" 
-/>
-<img 
-    align="left" 
     alt="Scikit-Learn" 
     title="Scikit-Learn"
     width="60px" 
@@ -68,36 +44,36 @@ Graphic Designer, Front-end Developer and Machine Learning enthusiast. In my fre
 />
 <img 
     align="left" 
-    alt="Trello" 
-    title="Trello"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
-/>
-<img 
-    align="left" 
     alt="HTML" 
     title="HTML"
     width="60px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img 
-    align="left" 
-    alt="Javascript" 
-    title="Javascript"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
 <img 
     align="left" 
     alt="CSS3" 
     title="CSS3"
     width="60px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Javascript" 
+    title="Javascript"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="60px" 
+    style="padding-right: 10px;" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"           
+/>
 
 
 
