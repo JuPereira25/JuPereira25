@@ -12,19 +12,19 @@ Graphic Designer, Front-end Developer and Machine Learning enthusiast. In my fre
 />
 <img 
     align="left" 
-    alt="Postgresql" 
-    title="Postgresql"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
     alt="Scikit-Learn" 
     title="Scikit-Learn"
     width="60px" 
     style="padding-right: 10px;" 
     src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
 <img 
     align="left" 
