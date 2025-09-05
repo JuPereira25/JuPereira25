@@ -4,14 +4,6 @@ Graphic Designer, Front-end Developer and Machine Learning enthusiast. In my fre
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Python" 
     title="Python"
     width="60px" 
@@ -25,14 +17,6 @@ Graphic Designer, Front-end Developer and Machine Learning enthusiast. In my fre
     width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" 
 />
 <img 
     align="left" 
@@ -72,7 +56,7 @@ Graphic Designer, Front-end Developer and Machine Learning enthusiast. In my fre
     title="React"
     width="60px" 
     style="padding-right: 10px;" 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"           
 />
 
 
