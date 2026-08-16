@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ju Pereira
-Full Stack Developer. In my free time, illustrator as a hobby :) 
-Enterprise Git: JulianaBPereira
+Full Stack Developer. In my free time, illustrator as a hobby :)  
+Enterprise Git: @JulianaBPereira
 
 ### 🤖 Linguagens e Tecnologias
 <img 
